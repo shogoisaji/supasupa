@@ -1,0 +1,1 @@
+<img src="{{ asset('images/bird.gif') }}" alt="logo" width="200" height="300">
